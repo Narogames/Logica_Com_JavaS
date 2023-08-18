@@ -9,4 +9,4 @@ function contarVogais(palavra) {
     }
     return contador
   }
-console.log(contarVogais("uva"))
+console.log(contarVogais("azul"))
